@@ -48,12 +48,14 @@ A Comparative Analysis Prompt asks AI to compare two or more entities based on a
 **Example Prompt**
 “Compare the advantages and disadvantages of using an AI-powered healthcare chatbot vs. a human nurse for patient interaction. Present in tabular format.”
 
+
 **GPT-5 OUTPUT**
 Feature	AI Chatbot	Human Nurse
 Availability	24/7, no fatigue	Limited to shifts
 Accuracy	Quick recall of stored info	Uses expertise and judgment
 Empathy	Limited emotional intelligence	High emotional connection
 Cost	Low after deployment	High salary & training
+
 **Gemini Output**
 Emphasized patient trust issues with chatbots
 
