@@ -1,208 +1,225 @@
 # Ex.No.4 Generate the Prompt and eveluate that for follwoing prompt types - Comparative Analysis Prompt Experiential Perspective Prompt - Everyday Functioning Prompts - Universal Prompt Structures Prompt Refinements- Prompt Size Limitations.
 
-REGISTER NUMBER : 212223040243
-Name            : Vineela Shaik
-# Aim:
-To design an AI-powered chatbot that assists customers in resolving issues related to product troubleshooting, order tracking, and general inquiries. The chatbot should handle various customer queries efficiently while maintaining a conversational and user-friendly tone. In this experiment, we will employ different prompt patterns to guide the development process of the chatbot, ranging from basic task-oriented prompts to more complex, persona-driven prompts. Case study 2 with Comparative Analysis Prompt, Universal Prompt, Structures Prompt Refinements and Prompt Size Limitations
+### DATE:   23-05-2026                                                                         
+### REGISTER NUMBER : 212223040243
+### NAME: Vineela Shaik
+### Aim: 
+To write the prompt for the following prompt types and compare that with differenet AI tools and evaluate that using any one evaluation method (eg. Rubrics). 1.Comparative Analysis Prompt 2. Experiential Perspective Prompt 3. Everyday Functioning Prompts 4. Universal Prompt Structures Prompt Refinements 5. Prompt Size Limitations design an AI 
 
-# Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
-Procedure:
+### Explanation - Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
 
-Define the Scenario and Use Case: Scenario: The manufacturing industry is looking to reduce manual monitoring and increase efficiency through automation. The system will utilize IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. The goal is to streamline the production process, minimize downtime, and enhance energy efficiency. Target Audience: Manufacturing companies, specifically in sectors like automotive, electronics, and food processing, where automation can significantly improve productivity.
-Main Objectives:
 
-• Improve production efficiency by 30%. • Minimize machinery downtime with predictive maintenance. • Enable real-time monitoring and remote control of manufacturing systems. • Reduce energy consumption by optimizing processes.
+## Procedure
 
-**Identify Prompt Patterns for Each Design Aspect**: Idea Generation Prompts:
-• Prompt: “What features can be incorporated into the automation system to optimize production and reduce downtime?” Generated Ideas: • Sensors for real-time monitoring of equipment performance. • Predictive maintenance alerts to anticipate equipment failures. • Energy usage optimization by automating the switching of machines on/off based on demand. • Cloud-based dashboards for remote monitoring and control of machinery.
+### 1. Define the Scenario and Use Case
 
-**Persona and Context Prompts:**
+#### Scenario
+The manufacturing industry aims to reduce manual monitoring and increase efficiency with automation. The system will use IoT devices and embedded controllers to automate equipment, monitor performance, and enable predictive maintenance. Goals: streamline production, minimize downtime, and improve energy efficiency.
 
-• Prompt: “What should the user interface and control system convey to the operators and managers?” Generated Context: • The user interface should be intuitive and provide real-time data on machine performance, energy usage, and alerts. • The system should convey reliability and ease of use, with minimal training required for operators.
+#### Target Audience
+Manufacturing engineers and operations managers in automotive, electronics, and food processing sectors.
 
-**Result:** The various types of Prompts are executed successfully with generated the report.
+#### Main Objectives
+- Improve production efficiency by ~30%.
+- Reduce machinery downtime via predictive maintenance.
+- Enable real-time monitoring and remote control of systems.
+- Reduce energy consumption through process optimization.
 
-**OUTPUT**
-# Scenario-Based Report Development Using Prompting Techniques
-**Introduction**
-Artificial Intelligence (AI) has become a transformative force in the healthcare sector, offering new possibilities for patient care, medical research, and administrative efficiency. One of the emerging applications is the use of AI-powered healthcare chatbots, designed to provide medical information, answer basic patient queries, give reminders, and assist in routine healthcare needs. Developing these chatbots requires effective prompt engineering, where the type of prompt used determines the clarity, accuracy, and relevance of AI-generated responses. This report explores various prompting techniques by applying them to the scenario of building an AI healthcare chatbot. Each technique is illustrated with example prompts, outputs from two AI tools (GPT-5 and Gemini Advanced), followed by comparative analysis and evaluation.
+### 2. Prompt Patterns for Different Design Aspects
 
-The techniques covered are:
+### A. Comparative Analysis Prompt
 
-Comparative Analysis Prompt
+#### Definition
+A comparative analysis prompt asks the AI to compare two or more technologies, methods, or concepts by identifying similarities, differences, advantages, and disadvantages.
 
-Experiential Perspective Prompt
+#### Prompt
+- Compare IoT-based predictive maintenance and traditional maintenance systems in manufacturing.
 
-Everyday Functioning Prompt
+#### Purpose in This Scenario
+These prompts help engineers choose the best technologies and automation strategies for smart manufacturing systems.
 
-Universal Prompt
 
-Structured Prompt Refinements
+### B. Experiential Perspective Prompt
 
-Prompt Size Limitations
+#### Definition
+This type of prompt asks the AI to explain a concept from the viewpoint or experience of a particular user or professional.
 
-# 1. Comparative Analysis Prompt
-**Definition**
-A Comparative Analysis Prompt asks AI to compare two or more entities based on advantages, disadvantages, or features. It helps in structured decision-making.
+#### Prompt
+- As a manufacturing engineer, explain the benefits of predictive maintenance in factory operations.
 
-**Example Prompt**
-“Compare the advantages and disadvantages of using an AI-powered healthcare chatbot vs. a human nurse for patient interaction. Present in tabular format.”
+#### Purpose in This Scenario
+These prompts provide practical insights from different stakeholder perspectives and help understand real-world implementation challenges.
 
 
-**GPT-5 OUTPUT**
-Feature	AI Chatbot	Human Nurse
-Availability	24/7, no fatigue	Limited to shifts
-Accuracy	Quick recall of stored info	Uses expertise and judgment
-Empathy	Limited emotional intelligence	High emotional connection
-Cost	Low after deployment	High salary & training
+### C. Everyday Functioning Prompt
 
-**Gemini Output**
-Emphasized patient trust issues with chatbots
+#### Definition
+These prompts explain how technologies function in real-life or everyday industrial applications.
 
-Discussed empathy and human touch in detail
+#### Prompt
+- Describe how IoT sensors monitor temperature and vibration in manufacturing machines.
 
-Included ethical considerations like data privacy
+#### Purpose in This Scenario
+These prompts help users understand practical applications of automation technologies in daily manufacturing operations.
 
-**Evaluation**
-GPT-5 → concise, structured, professional comparison.
 
-Gemini → deeper emotional and ethical insight.
+### D. Universal Prompt Structures
 
-**Best Use Case:** GPT-5 for decision tables; Gemini for narrative discussions.
+#### Definition
+Universal prompt structures are reusable prompt formats that can explain concepts or processes clearly and systematically.
 
-# 2. Experiential Perspective Prompt
-**Definition**
-This prompt asks AI to respond from a lived perspective, making the output more relatable and human-centered.
+#### Prompt
+- Explain predictive maintenance in simple terms with an example.
 
-**Example Prompt**
-“Imagine you are a patient using an AI healthcare chatbot for the first time. Describe your experience in detail.”
+#### Purpose in This Scenario
+These prompts simplify complex industrial concepts and provide structured learning for beginners and professionals.
 
-**GPT-5 Output**
-Patient finds chatbot simple and fast.
 
-Quick answers on dosage and diet.
+### E. Prompt Size Limitations
 
-Mild frustration: chatbot cannot show empathy.
+#### Definition
+Large prompts may exceed AI processing limits, so information should be divided into smaller manageable sections.
 
-**Gemini Output**
-Rich narrative style (“I felt nervous at first…”)
+#### Prompt
 
-Anxiety about depending on AI for health.
+##### Instead of
+- Explain all IoT applications in manufacturing.
 
-Positive surprise: chatbot connected to emergency line.
+##### Use
+- Explain 5 IoT applications in manufacturing at a time.
 
-**Evaluation**
-GPT-5 → focused on usability and efficiency.
 
-Gemini → more emotional storytelling.
 
-**Best Use Case:** GPT-5 for patient usability testing; Gemini for roleplay-based empathy studies.
+#### Purpose in This Scenario
+Breaking prompts into smaller chunks improves response quality, readability, and AI performance.
 
-# 3. Everyday Functioning Prompt
-**Definition**
-This prompt highlights how AI integrates into day-to-day life and functioning, especially for specific demographics.
 
-**Example Prompt**
-“How can an AI healthcare chatbot be useful in daily life for an elderly person living alone?”
+## OUTPUT
 
-**GPT-5 Output**
-Medication reminders
+## 1. Comparative Analysis Prompt
+### GPT-5 OUTPUT
 
-Appointment scheduling
+<img width="894" height="758" alt="image" src="https://github.com/user-attachments/assets/1a6950be-0453-49e1-a354-f886ae957d0a" />
 
-Emergency contact system
+<img width="787" height="233" alt="image" src="https://github.com/user-attachments/assets/d5774e17-2040-4438-9c96-2cf9a6e3b946" />
 
-Health tips explained simply
 
-**Gemini Output**
-All of the above + companionship role
+### Gemini Output
 
-Encourages social interaction (chatbot as “friendly assistant”)
+<img width="651" height="753" alt="image" src="https://github.com/user-attachments/assets/c03ef813-906a-4c2e-9d9e-2e22ef6efbe1" />
 
-**Evaluation**
-GPT-5 → crisp, practical checklist.
+<img width="720" height="751" alt="image" src="https://github.com/user-attachments/assets/68bb2bef-fb4e-4498-a878-c323ce1c6fb3" />
 
-Gemini → adds psychological and social dimension.
+<img width="664" height="671" alt="image" src="https://github.com/user-attachments/assets/9706cb7a-1fea-4d3a-9646-fb61427620a7" />
 
-**Best Use Case:** GPT-5 for healthcare utility design; Gemini for holistic well-being design.
 
-# 4. Universal Prompt
-**Definition**
-A Universal Prompt aims at maximum simplicity, so that anyone—children, seniors, or non-technical users—can understand.
+#### Evaluation
+**GPT-5** → Best for quick, structured comparisons and presentations.
 
-**Example Prompt**
-“Explain the role of AI healthcare chatbots in the simplest way possible so even a child can understand.”
+**Gemini** → Best for in-depth analysis and professional decision-making.
 
-**GPT-5 Output**
-“It’s like a talking helper that answers your health questions and reminds you to take medicine.”
 
-**Gemini Output**
-“Think of it like a smart friend on your phone who knows about health and can guide you when you feel sick.”
+## 2. Experiential Perspective Prompt 
+### GPT-5 OUTPUT
 
-**Evaluation**
-GPT-5 → emphasizes helper function.
+<img width="799" height="717" alt="image" src="https://github.com/user-attachments/assets/b381900b-456e-443f-add0-db374aef1ed1" />
 
-Gemini → emphasizes friendship analogy.
 
-**Best Use Case:** GPT-5 for clarity in education; Gemini for emotional engagement.
 
-# 5. Structured Prompt Refinements
-**Definition**
-Structured prompts guide AI step by step, ensuring well-organized responses.
+### Gemini Output
 
-**Example Prompt**
-Step 1: List 3 key benefits of AI healthcare chatbots.
+<img width="661" height="684" alt="image" src="https://github.com/user-attachments/assets/26fd11b2-6542-4d1e-869a-413227ca24fa" />
 
-Step 2: List 3 challenges.
+<img width="698" height="749" alt="image" src="https://github.com/user-attachments/assets/c397f633-0c12-4465-ab64-40438e6e306b" />
 
-Step 3: Suggest improvements.
 
-**GPT-5 Output**
-**Benefits:** Availability, scalability, reduced costs Challenges: Lack of empathy, misdiagnosis risk, data privacy Improvements: Emotional AI, better medical integration, stricter security
 
-**Gemini Output**
-Similar points, but longer explanations
 
-Example: “Data privacy is a serious challenge as patients may fear breaches…”
+#### Evaluation
+**GPT-5** →Best for clear, structured summaries of predictive maintenance benefits.
 
-**Evaluation**
-GPT-5 → structured, bullet-based clarity.
 
-Gemini → essay-style detail.
+**Gemini** → Best for detailed, technical insights with quantified ROI and advanced concepts.
 
-**Best Use Case:** GPT-5 for quick planning; Gemini for detailed reports.
 
-# 6. Prompt Size Limitations
-**Definition**
-Some tasks require strict word or token limits for clarity.
 
-**Example Prompt**
-“Summarize the role of AI healthcare chatbots in under 20 words.”
+## 3. Everyday Functioning Prompt
 
-**GPT-5 Output**
-“AI chatbots help patients with reminders, basic advice, and 24/7 health support.” (14 words)
+### GPT-5 OUTPUT
 
-**Gemini Output**
-“Chatbots provide quick answers, reminders, and constant health support.” (10 words)
+<img width="785" height="773" alt="image" src="https://github.com/user-attachments/assets/baa455ae-a67c-446c-926d-4c65660c375d" />
 
-**Evaluation**
-GPT-5 → concise but richer.
+<img width="731" height="296" alt="image" src="https://github.com/user-attachments/assets/39e80e8c-6fcd-4c33-93b4-ec0a474c05ae" />
 
-Gemini → extremely short and to the point.
 
-**Best Use Case:** GPT-5 for summaries with more substance; Gemini for strict length limits (tweets, SMS).
+
+### Gemini Output
+
+<img width="667" height="728" alt="image" src="https://github.com/user-attachments/assets/1102e3b9-adb7-4315-9abb-f6e15c259ebf" />
+
+<img width="700" height="661" alt="image" src="https://github.com/user-attachments/assets/124ce68e-21d6-4142-8760-4bd085c152d7" />
+
+<img width="706" height="652" alt="image" src="https://github.com/user-attachments/assets/f63de42f-3d5a-44ab-ab0b-59f0c148d67a" />
+
+
+
+#### Evaluation
+**GPT-5** →Best for simple, practical understanding of IoT sensors in manufacturing.
+
+
+**Gemini** →  Best for technical depth with sensor mechanisms and data processing details.
+
+
+## 4. Universal Prompt
+
+### GPT-5 OUTPUT
+
+<img width="811" height="780" alt="image" src="https://github.com/user-attachments/assets/f64d057b-f27d-4dfe-b068-14d282a589da" />
+
+
+
+### Gemini Output
+
+<img width="660" height="633" alt="image" src="https://github.com/user-attachments/assets/ebd58830-fb91-4adf-8f03-98eb61fc2409" />
+
+<img width="676" height="426" alt="image" src="https://github.com/user-attachments/assets/36399372-195b-48b5-aaa1-570db786e8de" />
+
+
+
+#### Evaluation
+**GPT-5** → Best for simple, clear understanding with easy factory examples.
+
+
+**Gemini** → Best for relatable analogies and deeper real-world scenarios like cars and factory floors.
+
+
+
+
+
+## 5. Prompt Size Limitations
+
+
+### GPT-5 OUTPUT
+
+<img width="620" height="402" alt="image" src="https://github.com/user-attachments/assets/1651fab9-44fe-43cf-8b54-837da6fc38f2" />
+
+
+
+### Gemini Output
+
+<img width="643" height="736" alt="image" src="https://github.com/user-attachments/assets/51c9fbf7-3f6f-4ed1-8030-40458e358eee" />
+
+
+
+#### Evaluation
+**GPT-5** →Best for simple, practical overview of IoT uses with clear benefits.
+
+
+**Gemini** →  Best for technical depth and advanced applications like digital twins and connected worker safety.
 
 # Overall Comparative Evaluation
-<img width="956" height="337" alt="Screenshot 2025-09-21 213635" src="https://github.com/user-attachments/assets/42847ec5-0b71-455d-9ed0-885f44156ec9" />
+<img width="931" height="594" alt="image" src="https://github.com/user-attachments/assets/8591bfb7-cba8-4453-ba14-a3ba6953a402" />
 
-**Conclusion**
-This scenario-based report illustrates that different prompting techniques unlock different strengths of AI tools. For an AI healthcare chatbot:
 
-GPT-5 performs best when precision, structure, and concise clarity are required.
-
-Gemini excels when empathy, narrative richness, and ethical depth are needed.
-
-An effective chatbot design should blend both approaches—using GPT-5’s structure for system functionality and Gemini’s narrative depth for human-centered interaction.
-
-# Result
-Thus the Prompts were exected succcessfully.
+# Result:
+The various types of Prompts are executed successfully with generated the report.
